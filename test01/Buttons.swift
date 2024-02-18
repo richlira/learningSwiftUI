@@ -29,6 +29,7 @@ struct Buttons: View {
     func saludo() {
         print("Llamando a funcion externa")
     }
+    
 }
 
 #Preview {

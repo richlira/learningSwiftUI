@@ -11,7 +11,7 @@ import SwiftUI
 struct test01App: App {
     var body: some Scene {
         WindowGroup {
-            ZStackpadding()
+            Navigations()
         }
     }
 }
